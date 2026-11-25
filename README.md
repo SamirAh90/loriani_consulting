@@ -19,9 +19,7 @@ Run `python -m http.server 8080` from this directory, then open http://localhost
 
 ## Editing
 
-Edit the HTML files for page content, `assets/site.css` for the original design, `assets/content.css` for the company and editorial sections, and `assets/site.js` for the mobile menu and contact interaction. The SVG logo and icons are scalable recreations of the supplied references. The office and growth images were generated for this website; prompts are recorded in `assets/IMAGE-PROMPTS.txt`.
-
-Company copy and details are based on the material supplied by the business: LoriAni Consulting AB, organisation number 559486-4125, Sikvägen 16, 135 41 Tyresö. The home page includes evergreen articles adapted from its Instagram copy. Financial statements, credit ratings and third-party advertisements are not part of the marketing website.
+Edit the HTML files for page content, `assets/site.css` for styling, and `assets/site.js` for the mobile menu and contact interaction. The SVG logo and icons are scalable recreations of the supplied references. The office and growth images were generated for this website; prompts are recorded in `assets/IMAGE-PROMPTS.txt`.
 
 ## Contact form
 
