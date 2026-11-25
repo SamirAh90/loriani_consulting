@@ -1,0 +1,7 @@
+Generated with the built-in image generation tool for this project.
+
+office.jpg
+Use case: photorealistic-natural. Wide website hero photograph, landscape 3:2. A sophisticated, very dark almost black accounting consultant office. Close-up black marble desk, closed black leather notebook with gold edged paper and fountain pen at lower center, glossy black espresso cup and saucer with delicate gold rim at center-right, clear glass vase full of white hydrangeas with green leaves in the upper right, open silver laptop partly cropped at the right edge. Soft amber lamp blurred in background near center. Warm cinematic evening light and golden reflections. Keep left 40 percent almost black and uncluttered for HTML copy. No text, logos or watermarks.
+
+growth.jpg
+Use case: product-mockup. Wide background photograph for a premium Swedish accounting consultancy About page. Five solid brushed champagne gold rectangular bars of successively increasing heights stand left-to-right on reflective black marble. A smooth three dimensional golden arrow curves upward over the bars from lower left to upper right. Arrangement occupies right two thirds with dark negative space at left and top. Black background, soft out of focus vertical amber lights, realistic reflections and muted warm champagne. No text, labels, words, logos, axes, people or watermarks.

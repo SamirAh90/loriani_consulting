@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://samirah90.github.io/loriani_consulting/sitemap.xml
